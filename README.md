@@ -2,11 +2,8 @@
 
 My primary interests are in Public, Urban, and Real Estate Economics. I'm also interested in Applied Econometrics, Big Data, and Machine Learning.
 
-<br>
-- You can find my [webstie here](https://ignaciomsarmiento.github.io/) and my [CV here](/assets/CV_Sarmiento_Barbieri.pdf).
 
-<br>
-
+- You can find my [webstie here](https://ignaciomsarmiento.github.io/) and my [CV here](https://ignaciomsarmiento.github.io/assets/CV_Sarmiento_Barbieri.pdf).
 - 📫 If you want to talk to me you can make an appointment [here](https://calendly.com/i-sarmiento/horarios-atencion-estudiantes), or send me an email to i.sarmiento (at) uniandes.edu.co <br>
 - 😄 Pronouns: he/him
 
